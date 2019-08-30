@@ -4,7 +4,7 @@
 #
 Name     : mvn-scalastyle-maven-plugin
 Version  : 1.0.0
-Release  : 2
+Release  : 3
 URL      : https://github.com/scalastyle/scalastyle-maven-plugin/archive/v1.0.0.tar.gz
 Source0  : https://github.com/scalastyle/scalastyle-maven-plugin/archive/v1.0.0.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/scalastyle/scalastyle-maven-plugin/1.0.0/scalastyle-maven-plugin-1.0.0.jar
